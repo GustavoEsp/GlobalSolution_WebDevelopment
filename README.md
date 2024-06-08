@@ -18,7 +18,6 @@
   - [Impactos](#impactos)
   - [Benefícios](#benefícios)
   - [Uso Diário](#uso-diário)
-- [Contato](#contato)
 
 ## Descrição
 
@@ -84,11 +83,5 @@ Enumeramos os benefícios de utilizar nossa solução, incluindo:
 ### Uso Diário
 
 Detalhamos como nossa solução pode ser integrada no dia a dia das operações de empresas de petróleo e gás para garantir uma vigilância constante e eficaz contra vazamentos de petróleo.
-
-## Contato
-
-Para mais informações, visite nosso site ou entre em contato através do email: [contato@petrotech.com](mailto:contato@petrotech.com).
-
----
 
 PetroTech - Monitorando e protegendo os oceanos.
